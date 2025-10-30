@@ -68,3 +68,12 @@ body {
     padding: 0;
   }
 }
+
+/* Style the search box inside the navigation bar */
+.card input[type=text] {
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
